@@ -7,6 +7,9 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
+- 💻 I make computer do things with [NodeJS](https://nodejs.org/en/)
+- 📃 VueJS (Vuetify/Quasar) for Web Applications
+- 📱  Kotlin for Android!
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 💬 Ask me about Firebase and Backend Engineering
 - 📫 How to reach me: [Discord](https://discord.firebase.me)
