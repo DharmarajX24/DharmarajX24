@@ -8,11 +8,11 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 💻 I make computer do things with [NodeJS](https://nodejs.org/en/)
-- 📃 VueJS (Vuetify/Quasar) for Web Applications
+- 📃 I've made multiple Web Apps using VueJS (Vuetify/Quasar)
 - 📱  Kotlin for Android!
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 💬 Ask me about Firebase and Backend Engineering
-- 📫 How to reach me: [Discord](https://discord.firebase.me)
+- 📫 Find me at [Discord](https://discord.firebase.me)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
