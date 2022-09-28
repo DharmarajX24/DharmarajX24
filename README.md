@@ -16,5 +16,4 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DharmarajX24&count_private=true&show_icons=true" />
+ 
